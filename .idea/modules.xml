@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaIdea.iml" filepath="$PROJECT_DIR$/javaIdea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/javaweb.iml" filepath="$PROJECT_DIR$/javaweb/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modue01/modue01.iml" filepath="$PROJECT_DIR$/modue01/modue01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticWeb01/staticWeb01.iml" filepath="$PROJECT_DIR$/staticWeb01/staticWeb01.iml" />
+    </modules>
+  </component>
+</project>
